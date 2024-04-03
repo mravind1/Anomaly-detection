@@ -9,7 +9,6 @@ URL of the referred paper: https://arxiv.org/abs/1809.10717
 
 1.2  ProcessFeature.csv is the RMT(Robust Multivariate Temporal) features extracted.
 
-
 2. Traffic.py- This file has Python3.6 and Keras 2.2.4 code for a traffic prediction problem described in paper with title
 ‘M2NN: Rare Event Inference through Multi-variate Multi-scale Attention’.
 The dataset is kept in M2NN_files\Data\Traffic_prediction
